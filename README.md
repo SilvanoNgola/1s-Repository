@@ -6,6 +6,7 @@
  #include <stdlib.h>
 
     int main(){
+        system ("color a0");
         printf("Olá Mundo!!")
 
     return 0;
